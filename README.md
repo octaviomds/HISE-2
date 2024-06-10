@@ -17,9 +17,9 @@ Logic
 Reaper
 Protools
 REASON 10
-FL Studio
+FL Studio    
 Presonus Studio One
-It supports x86 and x64 on Windows, altough the 64bit version is highly recommended (it uses memory mapping for accessing samples and because of the limitations of the 32bit memory address space it needs a slower fallback solution).
+                                   It supports x86 and x64 on Windows, altough the 64bit version is highly recommended (it uses memory mapping for accessing samples and because of the limitations of the 32bit memory address space it needs a slower fallback solution).
 
 OSX
 
